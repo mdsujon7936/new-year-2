@@ -1,0 +1,202 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+    margin: 0px;
+
+}
+
+/* header section */
+header{
+    background-image: url('../images/banner/banner3.png');
+    background-repeat:no-repeat;
+    margin: 0px;
+
+}
+/* header decsription */
+.header{
+    text-align: right;
+    margin-right: 50px;
+}
+.header-title{
+    padding-top: 216px;
+    margin-left: 700px;
+    color: var(--dark-01, #151414);
+    font-size: 65px;
+    font-weight: 700;
+}
+.header-description{
+    margin-top: 24px;
+    margin-bottom: 32px;
+    margin-left:800px ;
+    color: var(--dark-02, #444343);
+    font-size: 16px;
+    font-weight: 400;
+
+}
+.header-btn{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    background: #F15B22;
+    border: 0px;
+    padding: 21px 25px;
+    margin-bottom: 166px;
+
+}
+/* main sction */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.continar{
+    display: flex;
+    gap: 87px;justify-content: center;
+}
+.person{
+    margin-top: 131px;
+    color: rgba(241, 91, 34, 0.20);
+
+}
+.person-title{
+    margin-top: 370px;
+    margin-right: 100px;
+    margin-bottom: 24px;
+    color: var(--dark-01, #151414);
+    font-size: 40px;
+    font-weight: 700;
+}
+.person-description{
+    color: var(--dark-02, #444343);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    margin-right: 50px;
+
+}
+.persinon-item{
+    color: var(--dark-02, #444343);
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 8px;
+}
+#icon{
+    color: #16D887;
+}
+/* my plans */
+.plan-containar{
+    text-align: center;
+    margin-top: 150px;
+}
+.plan-title{
+    color: var(--dark-01, #151414);
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.plan-description{
+    display: flex;
+    justify-content: space-between;
+}
+.plan-item{
+    color: var(--dark-01, #151414);
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 18px;
+    margin-bottom: 16px;
+}
+.plan-item1{
+    color: var(--dark-03, #737272);
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 130px;
+}
+/* --------watch-banner----- */
+.watch-banner{
+    background-image: url('../images/watch.png');
+    margin-bottom: 130px;
+    
+      
+}
+.banner-title{
+    text-align:left;
+    padding-left: 64px;
+    padding-top: 59px;
+    padding-bottom: 59px;
+}
+.watch-description{
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    margin-right:617px ;
+    margin-bottom: 24px;
+}
+.watch-btn{
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0px;
+    padding: 21px 36px;
+}
+/* footer */
+footer{
+    display: flex;
+    justify-content: space-between;
+    color: #F8F8F8;;
+    background: var(--dark-01, #151414);
+}
+.footer-titel{
+    margin-top: 130px;
+    margin-left: 80px;
+    margin-bottom: 130px;
+}
+.future{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+.future-discription{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+    margin-right: 331px;
+
+}
+
+.Email{
+    margin-bottom: 16px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.Phone{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 36px;
+}
+/* from */
+.Subscribe-conteinar{
+    margin-top: 130px;
+    margin-right: 80px;
+}
+.Subscribe-conteinar h4{
+    margin-bottom: 31px;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+input{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    padding-top: 21px;
+    padding-right: 150px;
+    padding-bottom: 21px;
+    padding-left: 21px;
+    border-radius: 8px;
+    background: var(--dark-01, #151414);
+    border: 1px solid #FFF;
+}
+
+
+
